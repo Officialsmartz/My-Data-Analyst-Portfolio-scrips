@@ -34,7 +34,7 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
-
+import your_cv from "./queen_cv.pdf";
 import carrent from "./hr-atrition-dash.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
@@ -57,6 +57,7 @@ export {
   mongodb,
   nodejs,
   reactjs,
+  your_cv,
   redux,
   tailwind,
   typescript,
